@@ -34,7 +34,6 @@ public class SoluciónCndicionales {
 						System.out.println("CALLE - PREMIO");
 					}
 				}
-
 	}
 
 }
